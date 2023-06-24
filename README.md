@@ -1,6 +1,6 @@
 -👋 Hi, I'm @7luizarthur
 - 👀 I am interested in being a front-end developer...
-- 🌱 I'm currently learning HTML | css | JAVASCRIPT
+- 🌱 I'm currently learning HTML | CSS | JAVASCRIPT
 - 📫 How to reach me:
 Instagram: @7luizarthur
 email: 7luizarthur.contato@gmail.com
